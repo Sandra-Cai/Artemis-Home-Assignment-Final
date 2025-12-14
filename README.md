@@ -126,3 +126,5 @@ ORDER BY salary DESC;
 - Maximum file size is set to 1 GB as per requirements
 - No authentication is required (as per assignment specifications)
 
+
+

@@ -125,6 +125,3 @@ ORDER BY salary DESC;
 - The system uses DuckDB's `read_csv_auto` function which automatically infers column types
 - Maximum file size is set to 1 GB as per requirements
 - No authentication is required (as per assignment specifications)
-
-
-
